@@ -1,12 +1,12 @@
-title:            Notepad
-description:      "Blogging is fun"
+title:            DOAG
+description:      "PLSQL Conventions"
 logo:             logo3.png
-disqus_shortname: hmfaysal
+disqus_shortname: doagplsql
 share:            true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-#url:        	  http://hmfaysal.github.io
+#url:        	  http://ec2-54-191-221-67.us-west-2.compute.amazonaws.com:4000
 
 # Owner/author information
 owner:
@@ -16,12 +16,10 @@ owner:
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Awesome Dude, Awesome Life
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        hmfaysal
-  facebook:       hmfaysal
-  github:         hmfaysal      
-  instagram:      hmfaysal
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://plus.google.com/u/0/102602916593522619858
+  twitter:        DOAGev
+  github:         Doag      
+
+ 
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
