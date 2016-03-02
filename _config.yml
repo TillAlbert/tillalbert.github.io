@@ -65,12 +65,12 @@ kramdown:
     coderay_css: class
 
 prose:
-  rooturl: '_posts'
+  rooturl: '_site'
   siteurl: 'http://hmfaysal.github.io/'
   relativeLinks: 'http://hmfaysal.github.io/links.jsonp'
   media: 'images'
   metadata:
-    _posts:
+    _site:
       - name: "published"
         field:
           label: "Published"
